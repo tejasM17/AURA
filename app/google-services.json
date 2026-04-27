@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "233209228000",
+    "project_id": "jerry123-272dd",
+    "storage_bucket": "jerry123-272dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233209228000:android:6f3ce8e479785e9d64be85",
+        "android_client_info": {
+          "package_name": "com.example.aura"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233209228000-adju2ptdghkjvo8tcq99atqf3fq4j8mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyjH2_pmlaVHYdge3xLYNB7QVyX_rhvj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233209228000-adju2ptdghkjvo8tcq99atqf3fq4j8mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
