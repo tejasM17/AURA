@@ -23,16 +23,14 @@ Download the latest APK and test it right away:
    checkout -b your-branch-name
 ```
 4. Make your changes.
-5. Remove cache before committing (especially .idea folder)
 ```
    git add .
-   git rm -r --cached .idea
 ```
-6. Commit your changes.
+5. Commit your changes.
 ```
    git commit -m "Your meaningful commit message"
 ```
-7. Push to your branch with PR
+6. Push to your branch with PR
 ```
    git push origin your-branch-name
 ```
